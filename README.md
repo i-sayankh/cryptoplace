@@ -16,15 +16,15 @@ Cryptoplace is a responsive cryptocurrency website developed using React (with V
 
 ### Home Page
 
-![Home Page](screenshots\home.png)
+![Home Page](screenshots/home.png)
 
 ### Top 10 Coins
 
-![Home Page](screenshots\home2.png)
+![Home Page](screenshots/home2.png)
 
 ### Coin Details Page
 
-![Coin Details Page](screenshots\details.png)
+![Coin Details Page](screenshots/details.png)
 
 ## Getting Started
 
